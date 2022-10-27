@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SQLite / Sugar</string>
+    <string name="LogoChecenter">LogoChecenter</string>
+    <string name="txt_Bienvenidos">Bienvenidos</string>
+    <string name="txt_AquiPodraRealizarSuCheclist">Aquí podrá realizar su check list de su vehículo, gracias por usar nuestro servicio</string>
+    <string name="LogoIUD">LogoIUD</string>
+
+    <string name="txt_Bitacora">Bitácora de vehículos</string>
+    <string name="txt_usodiario">Aplicación de uso diario para check list de vehículos de la Universidad Digital de Antioquia</string>
+    <string name="txt_Email">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="btn_Login">Login</string>
+    <string name="btn_Registrar">Registrarse</string>
+    <string name="txt_NotehasRegistrado">Si no te has registrado, puedes hacerlo haciendo clic en el botón Registrar</string>
+
+    <string name="txt_passwordR">Password</string>
+    <string name="txt_Celular">Celular</string>
+    <string name="txt_EmailR">Email</string>
+    <string name="txt_Cedula">Cedula</string>
+    <string name="txt_Diligenciesusdatos">Diligencie sus datos</string>
+    <string name="RealicesuRegistro">Realice su Registro</string>
+    <string name="LogoKia">LogoKia</string>
+
+    //Registrarse/consultar/Editar/Eliminar
+    <string name="btn_GuardarC">Guardar</string>
+    <string name="btn_ConsultarC">Consultar</string>
+    <string name="btn_EditarC">Editar</string>
+    <string name="btn_EliminarC">Eliminar</string>
+
+
+</resources>
